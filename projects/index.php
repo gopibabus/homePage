@@ -37,6 +37,7 @@
             <a href="https://typing.gopibabu.live" target="_blank" class="btn btn-lg btn-danger form-control font-weight-bold mb-3">TYPING</a>
             <a href="https://photos.gopibabu.live" target="_blank" class="btn btn-lg btn-success form-control font-weight-bold mb-3">PHOTOS</a>
             <a href="https://ui.gopibabu.live" target="_blank" class="btn btn-lg btn-primary form-control font-weight-bold mb-3">HTML & CSS</a>
+            <a href="https://js.gopibabu.live" target="_blank" class="btn btn-lg btn-info form-control font-weight-bold mb-3">JAVASCRIPT</a>
         </div>
     </div>
     </div>
