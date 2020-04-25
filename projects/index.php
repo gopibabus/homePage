@@ -32,11 +32,11 @@
                     class="btn btn-lg btn-danger form-control font-weight-bold mb-3">LARAVEL</a>
                 <a href="https://gopibabu-php.netlify.app" target="_blank"
                     class="btn btn-lg btn-success form-control font-weight-bold mb-3">PHP</a>
-                <a href="https://myflix.gopibabu.live" target="_blank"
+                <a href="https://flix.gopibabu.live" target="_blank"
                     class="btn btn-lg btn-primary form-control font-weight-bold mb-3">MYFLIX</a>
                 <a href="https://gopibabu-css.netlify.app" target="_blank"
                     class="btn btn-lg btn-info form-control font-weight-bold mb-3">CSS</a>
-                <a href="https://gopibabus-devtools.netlify.app" target="_blank"
+                <a href="https://gopibabu-devtools.netlify.app" target="_blank"
                     class="btn btn-lg btn-secondary form-control font-weight-bold mb-3">DEV TOOLS</a>
             </div>
             <div class="col-md-6 mt-5">
