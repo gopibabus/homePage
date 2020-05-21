@@ -20,10 +20,10 @@
                                 <!-- Progress bar 1 -->
                                 <div class="progress mx-auto" data-value='90'>
                                     <span class="progress-left">
-                                        <span class="progress-bar border-primary"></span>
+                                        <span class="progress-bar"></span>
                                     </span>
                                     <span class="progress-right">
-                                        <span class="progress-bar border-primary"></span>
+                                        <span class="progress-bar"></span>
                                     </span>
                                     <div
                                         class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
@@ -54,10 +54,10 @@
                                 <!-- Progress bar 1 -->
                                 <div class="progress mx-auto" data-value='80'>
                                     <span class="progress-left">
-                                        <span class="progress-bar border-primary"></span>
+                                        <span class="progress-bar"></span>
                                     </span>
                                     <span class="progress-right">
-                                        <span class="progress-bar border-primary"></span>
+                                        <span class="progress-bar"></span>
                                     </span>
                                     <div
                                         class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
@@ -88,10 +88,10 @@
                                 <!-- Progress bar 1 -->
                                 <div class="progress mx-auto" data-value='60'>
                                     <span class="progress-left">
-                                        <span class="progress-bar border-primary"></span>
+                                        <span class="progress-bar"></span>
                                     </span>
                                     <span class="progress-right">
-                                        <span class="progress-bar border-primary"></span>
+                                        <span class="progress-bar"></span>
                                     </span>
                                     <div
                                         class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
