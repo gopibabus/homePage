@@ -4,8 +4,7 @@
             <div class="col-md-6 col-lg-6 d-flex">
                 <div class="img-about img d-flex align-items-stretch">
                     <div class="overlay"></div>
-                    <div class="img d-flex align-self-stretch align-items-center"
-                        style="background-image:url(images/about.jpg);">
+                    <div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/about.jpg);">
                     </div>
                 </div>
             </div>
@@ -29,8 +28,7 @@
                             <span class="number" data-number="12">0</span>
                             <span>Project complete</span>
                         </p>
-                        <p><a href="https://drive.google.com/uc?export=download&id=11CObSr1akLGf7jv_VT38KK-nlTFxrfzZ"
-                                class="btn btn-primary py-3 px-3">Download CV</a></p>
+                        <p><a href="https://drive.google.com/uc?export=download&id=1ujuC4OnDbx3mU0h7kYv9DFrGS0DLQ0-Y" class="btn btn-primary py-3 px-3">Download CV</a></p>
                     </div>
                 </div>
             </div>
