@@ -60,6 +60,10 @@ let projectsArray = {
 		name: 'MySQL',
 		url: 'https://gopibabu-mysql.netlify.app/#/',
 	},
+	14: {
+		name: 'Java',
+		url: 'https://gopibabu-java.netlify.app/#/',
+	},
 };
 
 let projects1 = document.querySelector('#projects-1');
