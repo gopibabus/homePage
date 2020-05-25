@@ -12,17 +12,13 @@ let projectsArray = {
 		name: 'Dev Tools',
 		url: 'https://gopibabu-devtools.netlify.app/#/',
 	},
-	2: {
+	3: {
 		name: 'Dev Resources',
 		url: 'https://notes.gopibabu.live/#/',
 	},
-	3: {
+	4: {
 		name: 'JavaScript',
 		url: 'https://gopibabu-js.netlify.app/',
-	},
-	4: {
-		name: 'MySQL',
-		url: 'https://gopibabu-mysql.netlify.app/#/',
 	},
 	4: {
 		name: 'PHP',
@@ -59,6 +55,10 @@ let projectsArray = {
 	12: {
 		name: 'Public APIs',
 		url: 'https://github.com/gopibabus/Public-APIs',
+	},
+	13: {
+		name: 'MySQL',
+		url: 'https://gopibabu-mysql.netlify.app/#/',
 	},
 };
 
