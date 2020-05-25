@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="shortcut icon" href="../images/favicon-32x32.png" type="image/x-icon">
-    <title>Projects</title>
+    <title>Project Templates</title>
     <link rel="stylesheet" href="neumorphism.css">
     <script src="https://kit.fontawesome.com/078c5ccadb.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="style.css">
@@ -15,12 +15,12 @@
 <body>
     <div class="container">
         <h2 class="text-center display-3 border-bottom border-dark pb-4 mt-3">
-            Projects
+            Project Templates
         </h2>
         <div class="row mt-4">
-            <div id="projects-1" class="col-md-6 mt-5">
+            <div id="template-1" class="col-md-6 mt-5">
             </div>
-            <div id="projects-2" class="col-md-6 mt-5">
+            <div id="template-2" class="col-md-6 mt-5">
             </div>
         </div>
 

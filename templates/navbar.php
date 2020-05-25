@@ -19,6 +19,9 @@
                             Blog</span></a></li>
                 <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
                 <li class="nav-item"><a href="./projects/" class="nav-link" target="_blank"><span>Projects</span></a>
+                <li class="nav-item"><a href="./project_templates/" class="nav-link" target="_blank"><span>Project
+                            Templates</span></a>
+                <li class="nav-item"><a href="./docs/" class="nav-link" target="_blank"><span>Docs</span></a>
                 </li>
             </ul>
         </div>
