@@ -33,9 +33,6 @@
                     <a href="./project_templates/" class="nav-link" target="_blank">
                         <span>Project Templates</span></a>
                 </li>
-                <li class="nav-item">
-                    <a href="./docs/" class="nav-link" target="_blank"><span>Docs</span></a>
-                </li>
             </ul>
         </div>
     </div>
