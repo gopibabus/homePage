@@ -84,6 +84,14 @@ let projectsArray = {
 		name: 'Shopping Cart',
 		url: 'https://github.com/gopibabus/ShoppingCart',
 	},
+	20: {
+		name: 'Learn Laravel',
+		url: 'https://laravel.gopibabu.live/',
+	},
+	21: {
+		name: 'Next.js',
+		url: 'https://github.com/gopibabus/LearnNextjs',
+	},
 };
 
 let projects1 = document.querySelector('#projects-1');
