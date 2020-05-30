@@ -8,20 +8,33 @@
 
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav nav ml-auto">
-                <li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
-                <li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
+                <li class="nav-item">
+                    <a href="#home-section" class="nav-link"><span>Home</span></a>
+                </li>
+                <li class="nav-item">
+                    <a href="#about-section" class="nav-link"><span>About</span></a>
+                </li>
                 <li class="nav-item">
                     <a href="https://portfolio.gopibabu.live" class="nav-link" target="_blank">
                         <span>Resume</span>
                     </a>
                 </li>
-                <li class="nav-item"><a href="https://blog.gopibabu.live" class="nav-link" target="_blank"><span>My
-                            Blog</span></a></li>
-                <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
-                <li class="nav-item"><a href="./projects/" class="nav-link" target="_blank"><span>Projects</span></a>
-                <li class="nav-item"><a href="./project_templates/" class="nav-link" target="_blank"><span>Project
-                            Templates</span></a>
-                <li class="nav-item"><a href="./docs/" class="nav-link" target="_blank"><span>Docs</span></a>
+                <li class="nav-item">
+                    <a href="https://blog.gopibabu.live" class="nav-link" target="_blank">
+                        <span>My Blog</span></a>
+                </li>
+                <li class="nav-item">
+                    <a href="#contact-section" class="nav-link"><span>Contact</span></a>
+                </li>
+                <li class="nav-item">
+                    <a href="./projects/" class="nav-link" target="_blank"><span>Projects</span></a>
+                </li>
+                <li class="nav-item">
+                    <a href="./project_templates/" class="nav-link" target="_blank">
+                        <span>Project Templates</span></a>
+                </li>
+                <li class="nav-item">
+                    <a href="./docs/" class="nav-link" target="_blank"><span>Docs</span></a>
                 </li>
             </ul>
         </div>
