@@ -1,12 +1,12 @@
-# My Introduction
+# My Online Profile
 
 ## Contact Details
 
-><br>
+> <br>
 > Gopibabu Srungavarapu <br>
 > +1 508-530-2391 <br>
 > s.gopibabu@hotmail.com <br>
-><br>
+> <br>
 
 ## Professional Summary
 
