@@ -17,8 +17,8 @@ let projectsArray = {
 		url: 'https://gopibabu-ui.netlify.app/#/',
 	},
 	4: {
-		name: 'React App',
-		url: 'https://gopibabu-reactapp.netlify.app/',
+		name: 'React Apps',
+		url: 'https://gopibabu-reactapps.netlify.app/',
 	},
 	5: {
 		name: 'Home Page',
@@ -61,8 +61,8 @@ let projectsArray = {
 		url: 'https://mysql.gopibabu.live/',
 	},
 	14: {
-		name: 'React Projects',
-		url: 'https://gopibabu-react.netlify.app/',
+		name: 'Next.js',
+		url: 'https://github.com/gopibabus/LearnNextjs',
 	},
 	15: {
 		name: 'Typing Practice',
@@ -87,10 +87,6 @@ let projectsArray = {
 	20: {
 		name: 'Learn Laravel',
 		url: 'https://laravel.gopibabu.live/',
-	},
-	21: {
-		name: 'Next.js',
-		url: 'https://github.com/gopibabus/LearnNextjs',
 	},
 };
 
