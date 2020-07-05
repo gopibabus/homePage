@@ -15,7 +15,7 @@
 <body>
     <div class="container">
         <h2 class="text-center display-3 border-bottom border-dark pb-4 mt-3">
-            Projects
+            PROJECTS
         </h2>
         <div class="row mt-4">
             <div id="projects-1" class="col-md-6 mt-5">
