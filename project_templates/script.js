@@ -27,6 +27,10 @@ let templatesArray = {
 		name: 'Cron Job Template',
 		url: 'https://github.com/gopibabus/cronjob-template',
 	},
+	7: {
+		name: 'Simple Project Template',
+		url: 'https://github.com/gopibabus/project-template',
+	},
 };
 
 let template1 = document.querySelector('#template-1');
