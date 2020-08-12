@@ -1,88 +1,64 @@
 // Update Projects
 let projectsArray = {
 	0: {
-		name: 'RESTAPI-PHP',
-		url: 'https://restapi.gopibabu.live/',
+		name: 'Node.js App',
+		url: 'https://github.com/gopibabus/node-app',
 	},
 	1: {
-		name: 'SHOPPING CART',
-		url: 'https://github.com/gopibabus/ShoppingCart',
+		name: 'React Apps',
+		url: 'https://github.com/gopibabus/react-apps',
 	},
 	2: {
-		name: 'BLOG ASSETS',
-		url: 'https://www.assets.gopibabu.live/',
+		name: 'Sending Emails - PHP',
+		url: 'https://github.com/gopibabus/sending-emails-php',
 	},
 	3: {
-		name: 'JavaScript & CSS Projects',
-		url: 'https://gopibabu-ui.netlify.app/#/',
+		name: 'Laravel App',
+		url: 'https://github.com/gopibabus/laravel-app',
 	},
 	4: {
-		name: 'REACT APPS',
-		url: 'https://gopibabu-reactapps.netlify.app/',
+		name: 'Sorting App',
+		url: 'https://github.com/gopibabus/sorting-app',
 	},
 	5: {
-		name: 'MY WEBSITE',
-		url: 'https://gopibabu.live',
+		name: 'Maps Project',
+		url: 'https://github.com/gopibabus/maps-project',
 	},
 	6: {
-		name: 'MYFLIX',
-		url: 'https://flix.gopibabu.live/',
-	},
-	6: {
-		name: '404 ERROR PAGE',
-		url: 'https://gopibabu-404.netlify.app/',
+		name: 'CSS Apps',
+		url: 'https://github.com/gopibabus/css-apps',
 	},
 	7: {
-		name: 'REACT-REDUX',
-		url: 'https://gopibabu-reactredux.netlify.app/',
+		name: 'MyFlix',
+		url: 'https://github.com/gopibabus/myflix',
 	},
 	8: {
-		name: 'MY BLOG',
-		url: 'https://blog.gopibabu.live/',
+		name: 'JavaScript Apps',
+		url: 'https://github.com/gopibabus/javascript-apps',
 	},
 	9: {
-		name: 'BOOTSTRAP INDEX PAGE',
-		url: 'https://gopibabu-index.netlify.app/',
+		name: 'ReactPHP App',
+		url: 'https://github.com/gopibabus/reactphp-app',
 	},
 	10: {
-		name: 'MY PORTFOLIO',
-		url: 'https://www.portfolio.gopibabu.live/',
+		name: 'Symfony App',
+		url: 'https://github.com/gopibabus/symfony-app',
 	},
 	11: {
-		name: 'SMART BRAIN API',
-		url: 'https://github.com/gopibabus/smart-brain-api',
+		name: 'Blog Assets',
+		url: 'https://github.com/gopibabus/blog-assets',
 	},
 	12: {
-		name: 'SMART BRAIN APP',
-		url: 'https://github.com/gopibabus/smart-brain',
+		name: 'RestAPI - PHP',
+		url: 'https://github.com/gopibabus/restapi-php',
 	},
 	13: {
-		name: 'MYSQL ADMIN PORTAL',
-		url: 'https://mysql.gopibabu.live/',
+		name: 'Typing Practice App',
+		url: 'https://github.com/gopibabus/typing-practice-app',
 	},
 	14: {
-		name: 'NEST.JS INTRO',
-		url: 'https://github.com/gopibabus/LearnNextjs',
-	},
-	15: {
-		name: 'TYPING PRACTICE APP',
-		url: 'https://gopibabu-typing.netlify.app/',
-	},
-	16: {
-		name: 'MY PHOTOS',
-		url: 'https://photos.gopibabu.live/',
-	},
-	17: {
-		name: 'YOUTUBE CLONE',
-		url: 'https://github.com/gopibabus/MyTube',
-	},
-	18: {
-		name: 'CRON JOB SETUP',
-		url: 'https://github.com/gopibabus/CronJobLinux',
-	},
-	19: {
-		name: 'SEND EMAIL APP',
-		url: 'https://github.com/gopibabus/SendingEmails-PHP',
+		name: 'Shopping Cart',
+		url: 'https://github.com/gopibabus/shopping-cart',
 	},
 };
 
@@ -91,16 +67,8 @@ let projects2 = document.querySelector('#projects-2');
 
 for (const prop in projectsArray) {
 	if (prop % 2 === 0) {
-		updateProjectInfo(
-			projects1,
-			projectsArray[prop].url,
-			projectsArray[prop].name
-		);
+		updateProjectInfo(projects1, projectsArray[prop].url, projectsArray[prop].name);
 	} else {
-		updateProjectInfo(
-			projects2,
-			projectsArray[prop].url,
-			projectsArray[prop].name
-		);
+		updateProjectInfo(projects2, projectsArray[prop].url, projectsArray[prop].name);
 	}
 }
