@@ -31,6 +31,10 @@ let templatesArray = {
 		name: 'Simple Project Template',
 		url: 'https://github.com/gopibabus/project-template',
 	},
+	8: {
+		name: 'TypeScript Template',
+		url: 'https://github.com/gopibabus/typescript-project-template',
+	},
 };
 
 let template1 = document.querySelector('#template-1');
