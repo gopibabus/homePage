@@ -1,4 +1,4 @@
-# My Online Profile
+![My Online Profile](./images/banner.png)
 
 ## Contact Details
 
@@ -10,8 +10,5 @@
 
 ## Professional Summary
 
-> <br>
 > A **Software Engineer** <br>
-> Interested in web development <br>
-> Interested in **PHP, Javascript, HTML, CSS ,SQL and related frameworks and technologies** <br>
-> <br>
+> I am interested in constructing web applications using **PHP, Javascript, HTML, CSS ,SQL and related frameworks and technologies** <br>
